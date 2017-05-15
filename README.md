@@ -1,5 +1,14 @@
 # Insight API ZeroCoin (Zcoin)
 
+
+Work in progress.
+
+#TODO:
+
+Create public api for Zcoin price ticker, integrate this in currency.js
+Create bitcore node zcoin.
+
+
 A Bitcoin blockchain REST and web socket API service for [Bitcore Node Zerocoin](https://github.com/Technoprenerd/bitcore-node-zcoin).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/bitpay/insight-ui.
