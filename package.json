@@ -63,8 +63,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zcoin": "^0.13.7",
-    "bitcore-message-zcoin": "^1.0.1",
+    "bitcore-lib-zcoin": "git://github.com/technoprenerd/bitcore-lib-zcoin.git",
+    "bitcore-message-zcoin": "git://github.com/technoprenerd/bitcore-message-zcoin.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",

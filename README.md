@@ -8,6 +8,9 @@ Work in progress.
 Create public api for Zcoin price ticker, integrate this in currency.js
 Create bitcore node zcoin.
 
+"bitcore-lib-zcoin": "^0.13.7", -- changed to github url
+    "bitcore-message-zcoin": "^1.0.1", -- also
+
 
 A Bitcoin blockchain REST and web socket API service for [Bitcore Node Zerocoin](https://github.com/Technoprenerd/bitcore-node-zcoin).
 

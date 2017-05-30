@@ -113,6 +113,12 @@ describe('Currency', function() {
 /* 
 Dash PRICE TICKER CODE, transform to Zcoin
 
+Zcoin price, public api
+
+https://bittrex.com/api/v1.1/public/getmarketsummary?market=btc-xzc
+https://bittrex.com/api/v1.1/public/getticker?market=btc-xzc
+
+
   var dashCentralData = {
     general: {
       consensus_blockheight: 561311,
