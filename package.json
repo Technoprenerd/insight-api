@@ -1,5 +1,5 @@
 {
-  "name": "insight-api",
+  "name": "insight-api-zcoin",
   "description": "A ZeroCoin (Zcoin) blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
   "repository": "git://github.com/technoprenerd/insight-api-zcoin.git",
